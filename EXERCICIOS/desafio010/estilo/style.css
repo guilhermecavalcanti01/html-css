@@ -40,6 +40,8 @@ a.externo::after {
 }
 
 
+
+
 header {
     background-image: linear-gradient(to bottom, var(--cor03), var(--cor05));
     min-height: 150px;
